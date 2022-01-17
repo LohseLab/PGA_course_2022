@@ -21,6 +21,7 @@ Course description
 ------------------
 
 The course covers the core concepts of modern population genomic analysis which focuses on analysing sequence variation contained in samples of genomes. The aim is to both introduce students to the mathematical models and computational algorithms that describe the ancestry of genomes in evolving populations and show how these are applied in practice to make inferences about the interplay of evolutionary forces (genetic drift, recombination, selection and demographic history) using hands-on data examples. 
+
 The course includes a detailed exposition of the coalescent, the canonical model of sample ancestry and the relevant data structures (genealogies, tree-sequences and graphs) for describing genetic ancestry. A major focus of the course is to understand how this basic stochastic model: 
 
 - extends to include all fundamental evolutionary forces (recombination, population structure, admixture and natural selection) and

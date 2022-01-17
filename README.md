@@ -1,4 +1,4 @@
-# PGA course 2022
+# Population Genomic Analysis 2022 (PGBI11126)
 
 GitHub repository of the [Population Genomic Analysis 2022 (PGBI11126) postgraduate course](http://www.drps.ed.ac.uk/21-22/dpt/cxpgbi11126.htm) at the University of Edinburgh 
 

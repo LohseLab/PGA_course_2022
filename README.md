@@ -34,8 +34,8 @@ These should be watched ahead of the corresponding practical session.
 Course admin
 ------------
 
-- PGA consists of a 10 computer practical sesssion (the last being an in-course assessment) which analyse population genomic data.
-- **The first session will be Tuesday 18/01 @ 1400-1700 hrs in the [JCMB](https://goo.gl/maps/mYi8YMzKHiA1U9ceA) computer suite Room 1208 (follow the signs to Room 1206C, which is opposite of 1208).**
+- PGA consists of a 10 computer practical sesssion (the last one being a class excercise that accounts for 75% of the mark) which analyse population genomic data.
+- **The first session will be on Tuesday 18/01 @ 1400-1700 hrs in the [JCMB](https://goo.gl/maps/mYi8YMzKHiA1U9ceA) computer suite Room 1208 (follow the signs to Room 1206C, which is opposite of 1208).**
 - Please let [me](mailto:konrad.lohse@ed.ac.uk?subject=[PGA2022]) know beforehand if you have been unable to travel to Edinburgh or are self-isolating, i.e. won't be able to attend.
 - While PGA focuses on analysing population genomic data, this will also involve using the Python programming language, which will be introduced gradually throughout the course.
   - if you have not worked with Jupyter notebooks before, please watch [this short intro video](https://www.youtube.com/watch?v=A5YyoCKxEOU) ahead of the course
@@ -88,7 +88,11 @@ Syllabus
   - be able to use coalescent theory to relate estimates of divergence and differentiation obtained from whole genome data to models of equilibrium population structure and non-equilibrium population history.
   - be able to define outliers of differentiation in a genome scan.
   - be able to simulate sequence data under models of population structure and compare these to real data. 
-- `P_07` - `P_09`
+- `P_07`
+  - appreciate the infromation about the divergence history of populations contained in incomplete lineage sorting  
+  - learn how to detect introgression from archaic Hominins into modern humans using the D statsitic (aka the ABBA/BABA test)
+  - TBA
+- `P_08` - `P_09`
   - Applying the knowledge you gained from this course to novel, real-world datasets.
   - TBA
   

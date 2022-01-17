@@ -65,7 +65,7 @@ Syllabus
   - understand that summary statistics are the currency for comparing real data to idealized models of population processes/history and that such comparisons can be done either via analytic results or simulations.
   - know how coalescent simulations are used in approximate likelihood inference.
 - `P_03`
-  - ARGs and treesequences: how are constructed and how do they differ?
+  - ARGs and treesequences: how are they constructed and how do they differ?
   - appreciate that not all recombination events are detectable
   - understand the difference between map and physical length of a sequence
   - know that the span of trees along the genome is a random variable and that nodes are shared between many trees.
@@ -88,6 +88,6 @@ Syllabus
   - be able to define outliers of differentiation in a genome scan.
   - be able to simulate sequence data under models of population structure and compare these to real data. 
 - `P_07` - `P_09`
-  - Applying the knowledge you gained from thyis course to novel, real-world datasets.
+  - Applying the knowledge you gained from this course to novel, real-world datasets.
   - TBA
   

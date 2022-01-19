@@ -89,9 +89,10 @@ Syllabus
   - be able to define outliers of differentiation in a genome scan.
   - be able to simulate sequence data under models of population structure and compare these to real data. 
 - `P_07`
-  - appreciate the infromation about the divergence history of populations contained in incomplete lineage sorting  
+  - understand genealogical dicordance and how it depends on incomplete lineage sorting and gene flow
+  - understand how the divergence history of populations affects the level of incomplete lineage sorting
+  - be able to run multi-population coalescent simulations and extract genealogical information
   - learn how to detect introgression from archaic Hominins into modern humans using the D statsitic (aka the ABBA/BABA test)
-  - TBA
 - `P_08` - `P_09`
   - Applying the knowledge you gained from this course to novel, real-world datasets.
   - TBA

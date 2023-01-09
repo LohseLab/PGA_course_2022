@@ -1,6 +1,6 @@
 # Population Genomic Analysis 2023 (PGBI11126)
 
-GitHub repository of the [Population Genomic Analysis 2023 (PGBI11126) postgraduate course](http://www.drps.ed.ac.uk/21-22/dpt/cxpgbi11126.htm) at the University of Edinburgh 
+GitHub repository of the [Population Genomic Analysis 2023 (PGBI11126) postgraduate course](http://www.drps.ed.ac.uk/22-23/dpt/cxpgbi11126.htm) at the University of Edinburgh 
 
 Table of contents
 -----------------
@@ -35,7 +35,7 @@ Course admin
 ------------
 
 - PGA consists of a 10 computer practical sesssion (the last one being a class excercise that accounts for 75% of the mark) which analyse population genomic data.
-- **The first session will be on Tuesday 17/01 @ 1400-1700 hrs in the [JCMB](https://goo.gl/maps/mYi8YMzKHiA1U9ceA) computer suite Room 1208 (follow the signs to Room 1206C, which is opposite of 1208).**
+- **The first session will be on Tuesday 17/01/2023 @ 1400-1700 hrs in the [JCMB](https://goo.gl/maps/mYi8YMzKHiA1U9ceA) computer suite Room 1208 (follow the signs to Room 1206C, which is opposite of 1208).**
 - While PGA focuses on analysing population genomic data, this will also involve using the Python programming language, which will be introduced gradually throughout the course.
   - if you have not worked with Jupyter notebooks before, please watch [this short intro video](https://www.youtube.com/watch?v=A5YyoCKxEOU) ahead of the course
   - if you are a complete Python-novice, please read sections 1. - 4.3 of the [official Python documentation](https://docs.python.org/3.6/tutorial/)
@@ -76,13 +76,13 @@ Syllabus
   - know that the analysis of variation data often requires additional simplifications and/or re-classification of the data
   - use common Python libraries to parse, intersect, interrogate, and visualize population genomic data
   - understand that due to background selection, genetic diversity in the genome is strongly correlated with functional constraint
-- `P_05`
+- `P_05` (Dr Derek Setter)
   - how does positive selection act to favour a beneficial mutation?
   - understand the role of drift/randomness on allele ferquency trajectories and fixation probability
   - understand the effect of positive selection on linked neutral variation
   - understand how `sweepfinder` works using simulation data
   - be able to perform a Selective sweep scan on real data
-- `P_06`
+- `P_06` (Dr Simon Martin)
   - understand genealogical dicordance and how it depends on incomplete lineage sorting and gene flow
   - understand how the divergence history of populations affects the level of incomplete lineage sorting
   - be able to run multi-population coalescent simulations and extract genealogical information

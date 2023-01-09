@@ -54,45 +54,45 @@ Using this repository
 
 Syllabus
 --------
-- `P_01`
+- `Practical_1`
   - coalescent simulation and relevant data structures.
   - run and analyse coalescent simulations with `msprime` and `tskit`.
   - understand how the variance of the coalescent depends on the two major axis of sampling: number of loci and number of individuals (Felsenstein 2004).
   - understand why it is natural (and helpful) to treat mutations separately from ancestry.
-- `P_02`
+- `Practical_2`
   - understand why coalescent simulations are useful to gain intuition about population level processes.
   - appreciate that the site frequency spectrum (SFS) is a fundamental summary of sequence variation and understand how it relates to genealogical branch lengths.
   - understand that summary statistics are the currency for comparing real data to idealized models of population processes/history and that such comparisons can be done either via analytic results or simulations.
   - know how coalescent simulations are used in approximate likelihood inference.
-- `P_03`
+- `Practical_3`
   - ARGs and treesequences: how are they constructed and how do they differ?
   - appreciate that not all recombination events are detectable
   - understand the difference between map and physical length of a sequence
   - know that the span of trees along the genome is a random variable and that nodes are shared between many trees.
   - understand that the duality between branch lengths and popgen measures extends to correlated trees.
-- `P_04`
+- `Practical_4`
   - gain familiarity with common bioinformatic file formats (FASTA, BED, VCF)
   - understand how (population) genomic data can be represented through these file formats.
   - know that the analysis of variation data often requires additional simplifications and/or re-classification of the data
   - use common Python libraries to parse, intersect, interrogate, and visualize population genomic data
   - understand that due to background selection, genetic diversity in the genome is strongly correlated with functional constraint
-- `P_05` (Dr Derek Setter)
+- `Practical_5` (Dr Derek Setter)
   - how does positive selection act to favour a beneficial mutation?
   - understand the role of drift/randomness on allele ferquency trajectories and fixation probability
   - understand the effect of positive selection on linked neutral variation
   - understand how `sweepfinder` works using simulation data
   - be able to perform a Selective sweep scan on real data
-- `P_06` (Dr Simon Martin)
+- `Practical_6` (Dr Simon Martin)
   - understand genealogical dicordance and how it depends on incomplete lineage sorting and gene flow
   - understand how the divergence history of populations affects the level of incomplete lineage sorting
   - be able to run multi-population coalescent simulations and extract genealogical information
   - learn how to detect introgression from archaic Hominins into modern humans using the D statsitic (aka the ABBA/BABA test)
-- `P_07`
+- `Practical_7`
   - how to estimate differentiation between populations/species using 𝑑𝑥𝑦, 𝑑𝑛𝑒𝑡 and 𝐹𝑠𝑡 and understand how these summary statistics are defined and related to each other.
   - be able to use coalescent theory to relate estimates of divergence and differentiation obtained from whole genome data to models of equilibrium population structure and non-equilibrium population history.
   - be able to define outliers of differentiation in a genome scan.
   - be able to simulate sequence data under models of population structure and compare these to real data. 
-- `P_08` - `P_09`
+- `Practical_8 and 9`
   - Applying the knowledge you gained from this course to novel, real-world datasets.
   - TBA
   

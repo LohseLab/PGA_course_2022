@@ -1,6 +1,6 @@
-# Population Genomic Analysis 2022 (PGBI11126)
+# Population Genomic Analysis 2023 (PGBI11126)
 
-GitHub repository of the [Population Genomic Analysis 2022 (PGBI11126) postgraduate course](http://www.drps.ed.ac.uk/21-22/dpt/cxpgbi11126.htm) at the University of Edinburgh 
+GitHub repository of the [Population Genomic Analysis 2023 (PGBI11126) postgraduate course](http://www.drps.ed.ac.uk/21-22/dpt/cxpgbi11126.htm) at the University of Edinburgh 
 
 Table of contents
 -----------------
@@ -35,8 +35,7 @@ Course admin
 ------------
 
 - PGA consists of a 10 computer practical sesssion (the last one being a class excercise that accounts for 75% of the mark) which analyse population genomic data.
-- **The first session will be on Tuesday 18/01 @ 1400-1700 hrs in the [JCMB](https://goo.gl/maps/mYi8YMzKHiA1U9ceA) computer suite Room 1208 (follow the signs to Room 1206C, which is opposite of 1208).**
-- Please let [me](mailto:konrad.lohse@ed.ac.uk?subject=[PGA2022]) know beforehand if you have been unable to travel to Edinburgh or are self-isolating, i.e. won't be able to attend.
+- **The first session will be on Tuesday 17/01 @ 1400-1700 hrs in the [JCMB](https://goo.gl/maps/mYi8YMzKHiA1U9ceA) computer suite Room 1208 (follow the signs to Room 1206C, which is opposite of 1208).**
 - While PGA focuses on analysing population genomic data, this will also involve using the Python programming language, which will be introduced gradually throughout the course.
   - if you have not worked with Jupyter notebooks before, please watch [this short intro video](https://www.youtube.com/watch?v=A5YyoCKxEOU) ahead of the course
   - if you are a complete Python-novice, please read sections 1. - 4.3 of the [official Python documentation](https://docs.python.org/3.6/tutorial/)
@@ -84,15 +83,15 @@ Syllabus
   - understand how `sweepfinder` works using simulation data
   - be able to perform a Selective sweep scan on real data
 - `P_06`
-  - how to estimate differentiation between populations/species using 𝑑𝑥𝑦, 𝑑𝑛𝑒𝑡 and 𝐹𝑠𝑡 and understand how these summary statistics are defined and related to each other.
-  - be able to use coalescent theory to relate estimates of divergence and differentiation obtained from whole genome data to models of equilibrium population structure and non-equilibrium population history.
-  - be able to define outliers of differentiation in a genome scan.
-  - be able to simulate sequence data under models of population structure and compare these to real data. 
-- `P_07`
   - understand genealogical dicordance and how it depends on incomplete lineage sorting and gene flow
   - understand how the divergence history of populations affects the level of incomplete lineage sorting
   - be able to run multi-population coalescent simulations and extract genealogical information
   - learn how to detect introgression from archaic Hominins into modern humans using the D statsitic (aka the ABBA/BABA test)
+- `P_07`
+  - how to estimate differentiation between populations/species using 𝑑𝑥𝑦, 𝑑𝑛𝑒𝑡 and 𝐹𝑠𝑡 and understand how these summary statistics are defined and related to each other.
+  - be able to use coalescent theory to relate estimates of divergence and differentiation obtained from whole genome data to models of equilibrium population structure and non-equilibrium population history.
+  - be able to define outliers of differentiation in a genome scan.
+  - be able to simulate sequence data under models of population structure and compare these to real data. 
 - `P_08` - `P_09`
   - Applying the knowledge you gained from this course to novel, real-world datasets.
   - TBA
